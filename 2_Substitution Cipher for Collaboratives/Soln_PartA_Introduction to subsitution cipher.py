@@ -1,4 +1,4 @@
-#Substitution Cipher for letters only
+#Substitution Cipher for lowercase letters only
 import random
 
 alphabet_list = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
